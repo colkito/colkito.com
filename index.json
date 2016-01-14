@@ -33,7 +33,9 @@
     "music",
     "ukelele",
     "jeep",
-    "basket"
+    "off-road",
+    "basket",
+    "radio"
   ],
   "bitcoin_address": "16zipJ5LiF16H2XS5xFSBS3xk6SArwHTA9",
   "social": [
@@ -78,14 +80,6 @@
       "url": "https://foursquare.com/colkito"
     },
     {
-      "name": "SoundCloud",
-      "url": "https://soundcloud.com/colkito"
-    },
-    {
-      "name": "last.fm",
-      "url": "http://www.last.fm/user/colkito"
-    },
-    {
       "name": "AngelList",
       "url": "https://angel.co/colkito"
     },
@@ -106,6 +100,24 @@
     {
       "name": "Medium",
       "url": "https://medium.com/@colkito"
+    }
+  ],
+  "music": [
+    {
+      "name": "RadioCol",
+      "url": "http://radio.colkito.com"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/colkito"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/aduketeam"
+    },
+    {
+      "name": "last.fm",
+      "url": "http://www.last.fm/user/colkito"
     }
   ]
 }
