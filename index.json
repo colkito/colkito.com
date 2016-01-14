@@ -1,0 +1,31 @@
+{
+  "full_name": "Mario Colque",
+  "username": "colkito",
+  "description": "Geek, Tech Entrepreneur, Web Developer. ฿itcoin, Robotics, Open Source. <code-lover/>",
+  "version": 28,
+  "created_at": "1987-12-12T14:20:00Z",
+  "locations": [
+    {
+      "country": "Argentina",
+      "province": "Salta"
+    },
+    {
+      "country": "Argentina",
+      "province": "Tucuman"
+    }
+   ],
+  "social": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/colkito"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://fb.com/goodbytess"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/colkito"
+    }
+  ]
+}
