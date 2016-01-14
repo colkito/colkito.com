@@ -1,5 +1,5 @@
 {
-  "full_name": "Mario Colque",
+  "full_name": "Mario Agustín Colque",
   "username": "colkito",
   "description": "Geek, Tech Entrepreneur, Web Developer. ฿itcoin, Robotics, Open Source. <code-lover/>",
   "version": 28,
@@ -16,6 +16,10 @@
    ],
   "social": [
     {
+      "title": "about.me",
+      "url": "https://about.me/colkito"
+    },
+    {
       "title": "GitHub",
       "url": "https://github.com/colkito"
     },
@@ -26,6 +30,44 @@
     {
       "title": "Twitter",
       "url": "https://twitter.com/colkito"
+    },
+    {
+      "title": "LinedIn",
+      "url": "https://linkedin.com/in/colkito"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/mariocolque"
+    },
+    {
+      "title": "Google+",
+      "url": "https://plus.google.com/+MarioColque"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/user/colkito"
+    },
+    {
+      "title": "Foursquare",
+      "url": "https://foursquare.com/colkito"
+    },
+    {
+      "title": "last.fm",
+      "url": "http://www.last.fm/user/colkito"
+    },
+    {
+      "title": "AngelList",
+      "url": "https://angel.co/colkito"
+    }
+  ],
+  "writing": [
+    {
+      "title": "Tumblr",
+      "url": "http://console.colkito.com"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@colkito"
     }
   ]
 }
