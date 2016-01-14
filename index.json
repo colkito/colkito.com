@@ -45,10 +45,6 @@
       "url": "https://about.me/colkito"
     },
     {
-      "name": "GitHub",
-      "url": "https://github.com/colkito"
-    },
-    {
       "name": "Facebook",
       "url": "https://fb.com/goodbytess"
     },
@@ -95,6 +91,20 @@
     {
       "name": "SlideShare",
       "url": "http://www.slideshare.net/colkito"
+    }
+  ],
+  "code": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/colkito"
+    },
+    {
+      "name": "npm",
+      "url": "https://www.npmjs.com/~colkito"
+    },
+    {
+      "name": "kohana-modules",
+      "url": "http://kohana-modules.com/modules/colkito"
     }
   ],
   "writings": [
