@@ -4,6 +4,7 @@
   "description": "Geek, Tech Entrepreneur, Web Developer. ฿itcoin, Robotics, Open Source, Music. <code-lover/>",
   "version": 28,
   "created_at": "1987-12-12T14:20:00Z",
+  "bitcoin_address": "16zipJ5LiF16H2XS5xFSBS3xk6SArwHTA9",
   "locations": [
     {
       "country": "Argentina",
@@ -38,7 +39,6 @@
     "basket",
     "radio"
   ],
-  "bitcoin_address": "16zipJ5LiF16H2XS5xFSBS3xk6SArwHTA9",
   "social": [
     {
       "name": "about.me",
@@ -97,7 +97,7 @@
       "url": "http://www.slideshare.net/colkito"
     }
   ],
-  "writing": [
+  "writings": [
     {
       "name": "Tumblr",
       "url": "http://console.colkito.com"
@@ -105,6 +105,10 @@
     {
       "name": "Medium",
       "url": "https://medium.com/@colkito"
+    },
+    {
+      "name": "LiveJournal",
+      "url": "http://colkito.livejournal.com"
     }
   ],
   "music": [
