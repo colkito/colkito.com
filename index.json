@@ -1,7 +1,7 @@
 {
   "full_name": "Mario Agustín Colque",
   "username": "colkito",
-  "description": "Geek, Tech Entrepreneur, Web Developer. ฿itcoin, Robotics, Open Source. <code-lover/>",
+  "description": "Geek, Tech Entrepreneur, Web Developer. ฿itcoin, Robotics, Open Source, Music. <code-lover/>",
   "version": 28,
   "created_at": "1987-12-12T14:20:00Z",
   "locations": [
@@ -14,65 +14,95 @@
       "province": "Tucuman"
     }
    ],
-  "emails": [
-    "colquemario@gmail.com",
-    "colkito@gmail.com",
-    "mario@tuquito.org.ar",
-    "mario@hashdog.com"
+   "contact": {
+    "skype": "colkito",
+    "emails": [
+      "colquemario@gmail.com",
+      "colkito@gmail.com",
+      "colkito@hotmail.com",
+      "mario@tuquito.org.ar",
+      "mario@hashdog.com"
+    ]
+   },
+  "interests": [
+    "web development",
+    "bitcoin",
+    "robotics",
+    "open-source",
+    "startups",
+    "music",
+    "ukelele"
   ],
+  "bitcoin_address": "16zipJ5LiF16H2XS5xFSBS3xk6SArwHTA9",
   "social": [
     {
-      "title": "about.me",
+      "name": "about.me",
       "url": "https://about.me/colkito"
     },
     {
-      "title": "GitHub",
+      "name": "GitHub",
       "url": "https://github.com/colkito"
     },
     {
-      "title": "Facebook",
+      "name": "Facebook",
       "url": "https://fb.com/goodbytess"
     },
     {
-      "title": "Twitter",
+      "name": "Twitter",
       "url": "https://twitter.com/colkito"
     },
     {
-      "title": "LinedIn",
+      "name": "LinedIn",
       "url": "https://linkedin.com/in/colkito"
     },
     {
-      "title": "Instagram",
+      "name": "Instagram",
       "url": "https://www.instagram.com/mariocolque"
     },
     {
-      "title": "Google+",
+      "name": "Google+",
       "url": "https://plus.google.com/+MarioColque"
     },
     {
-      "title": "YouTube",
+      "name": "YouTube",
       "url": "https://www.youtube.com/user/colkito"
     },
     {
-      "title": "Foursquare",
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/colkito"
+    },
+    {
+      "name": "Foursquare",
       "url": "https://foursquare.com/colkito"
     },
     {
-      "title": "last.fm",
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/colkito"
+    },
+    {
+      "name": "last.fm",
       "url": "http://www.last.fm/user/colkito"
     },
     {
-      "title": "AngelList",
+      "name": "AngelList",
       "url": "https://angel.co/colkito"
+    },
+    {
+      "name": "StackExchange",
+      "url": "https://stackexchange.com/users/3849762/colkito"
+    },
+    {
+      "name": "SlideShare",
+      "url": "http://www.slideshare.net/colkito"
     }
   ],
   "writing": [
     {
-      "title": "Tumblr",
+      "name": "Tumblr",
       "url": "http://console.colkito.com"
     },
     {
-      "title": "Medium",
+      "name": "Medium",
       "url": "https://medium.com/@colkito"
     }
   ]
