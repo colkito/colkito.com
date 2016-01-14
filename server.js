@@ -3,7 +3,7 @@
 var http = require('http'),
     data = require('./index.json');
 
-var port = 3000,
+var port = process.env.PORT || 5000,
     ip = '0.0.0.0';
 
 var server = http.createServer(function (req, res) {
