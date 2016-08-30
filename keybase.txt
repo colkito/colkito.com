@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/colkito
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://colkito.com
+  * I am colkito (https://keybase.io/colkito) on keybase.
+  * I have a public key with fingerprint 99B5 5A51 A065 9A3C 53B9  3DEA F394 55B3 EF35 3424
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101be58b3207071c02113860649d6161bef5116634f2cdf391defe47ee4734b27590a",
+            "fingerprint": "99b55a51a0659a3c53b93deaf39455b3ef353424",
+            "host": "keybase.io",
+            "key_id": "f39455b3ef353424",
+            "kid": "0101be58b3207071c02113860649d6161bef5116634f2cdf391defe47ee4734b27590a",
+            "uid": "4d64b33e3f464b722980da1bd8017619",
+            "username": "colkito"
+        },
+        "service": {
+            "hostname": "colkito.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472536035,
+    "expire_in": 157680000,
+    "prev": "1966bb53163f5ff988c8210b42ff66e502d1561897c2a3f2021529e73d02a7bc",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIiAnicrZJbSBVBGMfPyTKvIXRKKAzbKBLNdmZ2ZnePXS1II7r5EN087OzO6qbn
+7Omc9ZiKeSHsSTCQDMMLRUVQ+NBDRCDeiuhQaERQQlCCilFJN3swalbqIeixgWFm
+vvn/f/N9HzOSnuBJ8d7OXjtd0p426I0PXqzyHHmQNVEnUNuoEfx1QgVbWFilwaJO
+oMIyBL8gAhFQhhWKoCiLMtBFCABSiEgk1SCA8EsTA0AIkkyoGyZSgcFMJsmMTyRR
+KGNV1IQ8wbRCZSwSjlghh2NVlWKsYaCJBKsa0jGiKjKYxv0SxhQxE2EkQYkby+2o
+6+DJUS3K8i2bx/ghsJDeP/T/Oe+qBZxkEIkixJAp8Y0MoaqIhgaooYhAJkB1hVEW
+CWlBxtW6XVlhObZQnyfwYMzSmdtXt5C/Bfm6HeTOcMR2bB7iF+WOE476XaNTE3aV
+1YwGfjMC1AoZvIvcEWORqGWHBD/gSt2xXCiQZIgRERHOE9iZsBVhActVYJkoIh/u
+OyzGkUAlhFKMAEEmNk1VUXQFApFK0DQJYViEBsAEKKqsQw2ZkHcOQ5XJyBChJlNd
+cKs6HbI5m0MdrYwzo1ZZSHOqIkyoHxo4sdjjTfEkLlnkfi9PSnLGn09XXLL0Z23D
+rlhaf7Q1HoTpP2bv5jeVTmXV1Z/rKqkefhPf8Kyy+wldVXk2vrdH2BNcV9hzOZbr
+7Rw89+lp6wVz7aRv8uvc25HYtYbjdH931+CBifGtBa+OJj9MG8qsKzrUJ80EV+Ss
+67gvlPbPBD6vfA39N/WU1MfywQwj8mW2vWDRu4H2pLakR2tq+yaKWkcTmjszmntb
+Mjcvz2i82jLlY21w+4v2wPLGjzteJkzfmCtt2zfs2516fdmp+XjO0Ore5m9TiU3n
+i3xC1of3+zomq7PXx0PiWHjp8yc7nUsPfPPbbjUnHizuu1e1pFBtbNnkPVZYfUcb
+3zKQexheGa0Y+74xJ7Ps5C8tXDXd
+=uVY4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/colkito
+
+==================================================================
+
